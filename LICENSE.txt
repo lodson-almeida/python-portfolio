@@ -1,0 +1,8 @@
+Copyright (c) 2025 Lodson Almeida. All Rights Reserved.
+
+This code is proprietary and confidential. No part of this codebase 
+may be copied, modified, distributed, sublicensed, or used in any 
+commercial or non-commercial product without the express written 
+permission of the copyright holder.
+
+For licensing enquiries contact: lodson.almeida.stc@gmail.com
