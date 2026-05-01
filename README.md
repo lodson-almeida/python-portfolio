@@ -117,5 +117,5 @@ The complete Victory101 system includes:
 Available to walk through in detail during a technical conversation.
 
 ## System Output Preview
-![Strategy Performance Dashboard](Dashboard_Demo.png)
+Strategy Performance Dashboard
 <img width="3783" height="5175" alt="Dashboard_Demo_1" src="https://github.com/user-attachments/assets/c469a427-097c-48fc-80a3-3c8b56a80402" />
